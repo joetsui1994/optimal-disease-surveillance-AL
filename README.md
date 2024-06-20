@@ -29,9 +29,7 @@ The structure of this repository is shown below:
 │   ├── run-scripts/
 │   ├── tutorial_resources/
 │   ├── utils/
-│   ├── configs/
-│   ├── tao_manager.py
-│   └── requirements.txt
+│   └── configs/
 ├── materials/
 │   ├── synthetic-graphs/
 │       ├── SB-high_modularity/
