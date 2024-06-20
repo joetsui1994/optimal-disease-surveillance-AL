@@ -1,0 +1,4 @@
+mcmc_params:
+  num_warmup: 1000
+  num_samples: 2500
+  num_chains: 2

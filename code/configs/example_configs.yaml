@@ -1,0 +1,6 @@
+# multiprocessing:
+max_core_num: 8
+progress_bar: True
+output_dir: ""
+environment:
+  input_G: ""
