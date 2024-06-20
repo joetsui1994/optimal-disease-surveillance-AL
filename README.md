@@ -1,9 +1,8 @@
 # Optimal Disease Surveillance with Graph-Based Active Learning
 
-​​Joseph L.-H. Tsui<sup>§</sup>, Mengyan Zhang<sup>§</sup>, Prathyush Sambaturu, Simon Busch-Moreno, Marc A. Suchard, Oliver G. Pybus, Seth Flaxman<sup>#</sup>, Elizaveta Semenova<sup>#</sup>, Moritz U. G. Kraemer<sup>#</sup>
+​​**Joseph L.-H. Tsui**, **Mengyan Zhang**, Prathyush Sambaturu, Simon Busch-Moreno, Marc A. Suchard, Oliver G. Pybus, **Seth Flaxman**, **Elizaveta Semenova**, **Moritz U. G. Kraemer**
 
-**<sup>§</sup>** Contributed equally to this work<br/>
-**<sup>#</sup>** Contributed equally to this work
+[DOI] TO BE ADDED
 
 ---
 
