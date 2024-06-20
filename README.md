@@ -2,7 +2,7 @@
 
 ​​Joseph L.-H. Tsui<sup>§</sup>, Mengyan Zhang<sup>§</sup>, Prathyush Sambaturu, Simon Busch-Moreno, Marc A. Suchard, Oliver G. Pybus, Seth Flaxman<sup>#</sup>, Elizaveta Semenova<sup>#</sup>, Moritz U. G. Kraemer<sup>#</sup>
 
-**<sup>§</sup>** Contributed equally to this work<br/>
+<span style="font-size:10px">**<sup>§</sup>** Contributed equally to this work</span><br/>
 **<sup>#</sup>** Contributed equally to this work
 
 ---
