@@ -2,7 +2,7 @@
 
 ​​**Joseph L.-H. Tsui**, **Mengyan Zhang**, Prathyush Sambaturu, Simon Busch-Moreno, Marc A. Suchard, Oliver G. Pybus, **Seth Flaxman**, **Elizaveta Semenova**, **Moritz U. G. Kraemer**
 
-[DOI] TO BE ADDED
+[![DOI](https://zenodo.org/badge/817429535.svg)](https://zenodo.org/doi/10.5281/zenodo.12198920)
 
 ---
 
